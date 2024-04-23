@@ -9,6 +9,8 @@ This repository contains a childcare facilities location dashboard created using
 - **Age Group Compatibility**: Information on whether childcare facilities cater to specific age groups, helping parents find suitable options for their children.
 - **Operating Hours**: View the opening and closing times of childcare facilities on weekdays and weekends to plan childcare arrangements accordingly.
 
+![Childcare Dashboard](https://github.com/anuvsharma/child_care_dashboard/blob/main/Child_Care_Dashboard.png)
+
 ## Data Source
 
 The data for this dashboard is provided by the BC Data Catalogue, offering comprehensive information about childcare facilities across British Columbia.
